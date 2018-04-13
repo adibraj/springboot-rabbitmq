@@ -1,0 +1,3 @@
+employee.queue.name : empQueue
+exchange.name : empExchange
+route.key : employee.*

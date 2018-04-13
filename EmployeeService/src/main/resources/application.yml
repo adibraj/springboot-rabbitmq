@@ -1,0 +1,5 @@
+employee.queue.name : empQueue
+exchange.name : empExchange
+route.key : employee.*
+server:
+  port: 8082
